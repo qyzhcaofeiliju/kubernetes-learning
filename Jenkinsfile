@@ -1,4 +1,4 @@
-node('haimaxy-jnlp') {
+node('qyzh-test1') {
     stage('Prepare') {
         echo "1.Prepare Stage"
         checkout scm
