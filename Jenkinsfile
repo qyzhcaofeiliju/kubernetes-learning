@@ -1,4 +1,4 @@
-node('qyzh-test1') {
+node('qyzh-jnlp2') {
     stage('Prepare') {
         echo "1.Prepare Stage"
         checkout scm
